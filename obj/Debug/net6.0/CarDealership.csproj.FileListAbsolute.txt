@@ -1,0 +1,15 @@
+/Users/ramenimo/Desktop/car-dealer/bin/Debug/net6.0/CarDealership
+/Users/ramenimo/Desktop/car-dealer/bin/Debug/net6.0/CarDealership.deps.json
+/Users/ramenimo/Desktop/car-dealer/bin/Debug/net6.0/CarDealership.runtimeconfig.json
+/Users/ramenimo/Desktop/car-dealer/bin/Debug/net6.0/CarDealership.dll
+/Users/ramenimo/Desktop/car-dealer/bin/Debug/net6.0/CarDealership.pdb
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.csproj.AssemblyReference.cache
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.AssemblyInfoInputs.cache
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.AssemblyInfo.cs
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.csproj.CoreCompileInputs.cache
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.dll
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/refint/CarDealership.dll
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.pdb
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/CarDealership.genruntimeconfig.cache
+/Users/ramenimo/Desktop/car-dealer/obj/Debug/net6.0/ref/CarDealership.dll
